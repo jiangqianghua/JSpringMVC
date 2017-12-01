@@ -1,6 +1,9 @@
 # JSpringMVC
 手写简易的SpringMVC框架
+
 步骤
+
+ 
  1 加载我们的配置文件 applcation.xml，我们用applocation.properties代替
 
  2 扫描所有满足条件的@Controller @Service
