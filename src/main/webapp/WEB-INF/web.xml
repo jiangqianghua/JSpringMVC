@@ -18,7 +18,7 @@ id="WebApp_ID" version="3.0">
 	
 	<servlet-mapping>
 		<servlet-name>dispatcher</servlet-name>
-		<url-pattern>*.json</url-pattern>
+		<url-pattern>/*</url-pattern>
 	</servlet-mapping>
 
 </web-app>
